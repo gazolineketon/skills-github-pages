@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my blog :)!
+This is cool , don't be fool
 ---
